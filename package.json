@@ -1,0 +1,15 @@
+{
+  "name": "vuepress-blog-boilerplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Kodziak <kodziak1416@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "devDependencies": {
+  },
+  "dependencies": {
+  }
+}
