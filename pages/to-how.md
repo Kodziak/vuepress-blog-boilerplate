@@ -1,6 +1,6 @@
 ---
-title: "How to?"
-date: 2020-04-27
+title: "To how?"
+date: 2020-03-20
 ---
 
 Example post
